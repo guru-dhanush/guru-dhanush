@@ -6,7 +6,22 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise in building scalable web applications and cloud-native solutions. Currently working as a Cloud Associate Engineer at **Niveus Solutions (Part of NTT DATA)**
+I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise in building scalable web applications and cloud-native solutions. Currently working as a Cloud Associate Engineer at **Niveus Solutions (Part of NTT DATA)**, where I lead frontend development for business-critical applications.
+
+- 🔭 Currently working on **AI-powered social media automation platform (LoopMario)**
+- 🌱 Learning advanced **Microservices Architecture** and **Machine Learning**
+- 👨‍💻 All of my projects are available at [**dhxnush.com**](https://dhxnush.com)
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, GCP**
+- 📫 Reach me at **gurudhanush101@gmail.com**
+- ⚡ Fun fact: I love turning complex problems into elegant solutions!
+
+## 🏆 Achievements
+
+- 🌟 **Star of the Month Award** - Niveus Solutions (May 2024)
+- 🏅 **Google Cloud Certified - Associate Cloud Engineer** (2025)
+- 🚀 Reduced unauthorized deployments by **90%** with custom DMAN system
+- 📈 Improved code quality by **40%** using SonarQube analysis
+- 🎯 Achieved **95%** on-time delivery rate across multiple projects
 
 ## 🎖️ Certifications
 
@@ -19,21 +34,26 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise i
 <img src="./assets/gcp-certification.png" alt="GCP Associate Cloud Engineer" width="300" height="200"/>
 
 <!-- Method 2: Use direct Credly badge image -->
-## 🎖️ Certifications
-
-<div align="center">
-  
-### Google Cloud Certified - Associate Cloud Engineer
-[![GCP Certification](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/53b7acab-7d2f-430a-b73e-e8ff6c4b9c83/linked_in?t=srggju)
-
-<!-- Method 1: Upload image to your repository -->
-<img src="./assets/gcp-certification.png" alt="GCP Associate Cloud Engineer" width="300" height="200"/>
-
-<!-- Method 2: Use direct Credly badge image -->
-<img src="https://www.credly.com/badges/53b7acab-7d2f-430a-b73e-e8ff6c4b9c83/public_url" alt="GCP Associate Cloud Engineer Badge" width="150" height="150"/>
+<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="GCP Associate Cloud Engineer Badge" width="150" height="150"/>
 
 </div>
-</div>
+
+## 🔥 Featured Projects
+
+### 🤖 [LoopMario](https://github.com/guru-dhanush/loopmario) - AI Social Media Automation
+- **Tech Stack:** Next.js, Node.js, TypeScript, Google Gemini, Imagen, Veo
+- Multi-platform content generation and scheduling for X, LinkedIn, Instagram, Facebook
+- AI-powered captions, images, and video creation
+
+### 📄 [Validoc](https://validoc-frontend-32238849216.us-central1.run.app) - AI Document Validator
+- **Tech Stack:** React, Node.js, TypeScript, Google Gemini API, Firebase
+- Automated document validation with 95% accuracy rate
+- Supports 50+ file formats with intelligent scoring system
+
+### 🏠 [Dweltin.com](https://www.dweltin.com/) - Real Estate Platform
+- **Tech Stack:** TypeScript, Node.js, PostgreSQL, AWS VPC
+- Scalable cloud-native architecture handling 10,000+ property listings
+- Multi-tier AWS deployment with 99.9% uptime
 
 ## 💻 Tech Stack
 
