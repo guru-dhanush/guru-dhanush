@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise i
 
 ## 🎖️ Certifications
 
-<div align="center">
+<div >
   
 ### Google Cloud Certified - Associate Cloud Engineer
 [![GCP Certification](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/53b7acab-7d2f-430a-b73e-e8ff6c4b9c83/linked_in?t=srggju)
