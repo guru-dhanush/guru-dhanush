@@ -8,6 +8,21 @@
 
 I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise in building scalable web applications and cloud-native solutions. Currently working as a Cloud Associate Engineer at **Niveus Solutions (Part of NTT DATA)**
 
+## 🎖️ Certifications
+
+<div align="center">
+  
+### Google Cloud Certified - Associate Cloud Engineer
+[![GCP Certification](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/53b7acab-7d2f-430a-b73e-e8ff6c4b9c83/linked_in?t=srggju)
+
+<!-- Method 1: Upload image to your repository -->
+<img src="./assets/gcp-certification.png" alt="GCP Associate Cloud Engineer" width="300" height="200"/>
+
+<!-- Method 2: Use direct Credly badge image -->
+<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="GCP Associate Cloud Engineer Badge" width="150" height="150"/>
+
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend
