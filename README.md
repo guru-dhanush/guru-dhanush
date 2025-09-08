@@ -18,9 +18,6 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise i
 <!-- Method 1: Upload image to your repository -->
 <img src="./assets/gcp-certification.png" alt="GCP Associate Cloud Engineer" width="300" height="200"/>
 
-<!-- Method 2: Use direct Credly badge image -->
-<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="GCP Associate Cloud Engineer Badge" width="150" height="150"/>
-
 </div>
 
 ## 💻 Tech Stack
