@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise in building scalable web applications and cloud-native solutions. Currently working as a Cloud Associate Engineer at **Niveus Solutions (Part of NTT DATA)**, where I lead frontend development for business-critical applications.
+I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise in building scalable web applications and cloud-native solutions. Currently working as a Cloud Associate Engineer at **Niveus Solutions (Part of NTT DATA)**.
 
 ## 🎖️ Certifications
 
