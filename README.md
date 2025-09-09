@@ -81,6 +81,6 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise i
 
 <div align="center">
   
-**"loading... 👀 From $0 to $100K+ | Big things coming 💰"**
+**"Cooking up something big... 👨‍🍳 | Coming soon "**
 
 </div>
