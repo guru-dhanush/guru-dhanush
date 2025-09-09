@@ -81,6 +81,6 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** with expertise i
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+**"loading... 👀 From $0 to $100K+ | Big things coming 💰"**
 
 </div>
